@@ -1,0 +1,10 @@
+
+Se encontró un flotante: 0.000000
+Se ha encontrado el entero 12 que estaba en base 10
+Se ha encontrado el entero 277 que estaba en base 16
+Se ha encontrado el entero 668 que estaba en base 8
+Cadena sin terminar en la línea: 14
+Valor numérico erroneo 12lul en la línea 17
+Comentario multilinea sin cerrar en la línea 20
+Valor numérico erroneo 10a en la línea 29
+Comentario multilinea sin cerrar en la línea 30

@@ -1,0 +1,19 @@
+/*
+ * Programm zum Drucken von zwei Werten.
+ * Einer voin ihnes ist Ganzzahlig und der andere ist ein
+ * Gleitpunkt.
+ */
+
+// Hauptfunktion
+Ganzzahlig Main()
+{
+    Ganzzahlig myInt = 0x123u + 04321L + 1234; // Ohne Dezimalpunkt
+    Glepktpunkt myFloat = 123.55 - 12.4e12;    // Reelle Zahl
+
+    druckf("Hello world, myInt is: %d and myFloat is %d\n", myInt);
+
+    myInt += 17;    // Summe 17 zum Inhalt von "myInt"
+
+    druckf("Now, myInt is: %d\n", myInt);
+    zurückkehrem 0; // :)
+}

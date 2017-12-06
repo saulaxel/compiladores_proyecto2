@@ -1,0 +1,15 @@
+/*
+ * Lese Zwei ganze Zahlen
+ * und drucke ihre Summe
+ * aus.
+ */
+
+Ganzzahlig Main()
+{
+    Ganzzahlig a = 0, b = 0;
+
+    druckf("Hello world, myInt is: %d and myFloat is %d\n", myInt);
+
+    druckf("Now, myInt is: %d\n", myInt);
+    zurückkehrem 0; // :)
+}

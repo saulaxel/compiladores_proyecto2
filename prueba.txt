@@ -1,0 +1,33 @@
+Ganzzahlig Glepktpunkt
+/*
+    Esto es un comentario, así que no molestes
+        xD
+12 3123hZß ÄÖÜäöü asdfas df2 asdfasdf
+*/
+
+|| Charakter
+&&
+whährend
+& für |
+ob
++12e-12
+"Cadena 0.11e0 >
+sonst
+<
++12u 12lul
+// Esto es un comentario de una sola línea
+wechsein
+( /* hola
+gehen
+_
+) fortsetzen
+0x115
+01234 n unterbrechen
+{
+weber12 zurückkehrem }
+Struktur /
+Union + Aufzählung
+-
+Typdefinition *
+10a
+/* Este comentario no está cerrado
