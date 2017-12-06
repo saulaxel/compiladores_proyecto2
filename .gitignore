@@ -1,0 +1,5 @@
+*.exe
+*.out
+analizador
+salida_compilacion/
+salida_programa/
